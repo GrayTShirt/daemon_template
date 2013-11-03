@@ -15,4 +15,4 @@ not write boilerplate.
 
 ### AUTHORS
 
-Dan Molik <dan@d3fy.net>
++ Dan Molik <dan@d3fy.net>
